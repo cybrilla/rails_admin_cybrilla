@@ -1,0 +1,3 @@
+module RailsAdminCybrilla
+  VERSION = "0.0.1"
+end
